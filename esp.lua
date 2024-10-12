@@ -34,7 +34,7 @@
         CharSize = Vector2.new(4, 6),
         Teamcheck = true,
         WallCheck = false,
-        Enabled = true,
+        Enabled = false,
         ShowBox = true,
         BoxType = "2D",
         ShowName = true,
